@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33110.190
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassBasic", "CSharpFundamentals\ClassBasic.csproj", "{CCAB3B40-2678-4DC0-8506-2FF4DD4F0271}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassBasic", "ClassBasic\ClassBasic.csproj", "{CCAB3B40-2678-4DC0-8506-2FF4DD4F0271}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array", "Array\Array.csproj", "{46A72568-D9DC-41B5-B37E-7BD4873BC09C}"
 EndProject
