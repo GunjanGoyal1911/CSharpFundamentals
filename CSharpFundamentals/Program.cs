@@ -1,12 +1,7 @@
-﻿using CSharpFundamentals.Math;
+﻿using ClassBasic.Math;
 using System;
-using System.Collections.Generic;
-using System.Diagnostics;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace CSharpFundamentals
+namespace ClassBasic
 {
     internal class Program
     {
