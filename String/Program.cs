@@ -27,8 +27,8 @@ namespace String
             //var text = " Hi Johan\n Look into this path\n c:\\folder1\\folder2\n c:\\folder3\\folder4";
             var text = @" Hi Johan
             Look into this path
-            c:\\folder1\\folder2
-            c:\\folder3\\folder4";
+            c:\folder1\folder2
+            c:\folder3\folder4";
             Console.WriteLine(text);
             Console.ReadLine();
             
